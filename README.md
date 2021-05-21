@@ -1,7 +1,8 @@
 # Information
 * Type : "git pull" For Updates Tools
 * Method Crack https://mbasic.facebook.com
-* Log in With Token (anti checkpoint, don't use new account)
+* Log in With Token And Cookie (anti checkpoint, don't use new account)
+* Have Any Problem Login Token Please Check This : https://www.facebook.com/100015073506062/posts/1137297496782690/?app=fbl
 
 # Command
 ```
@@ -12,5 +13,7 @@ $ cd simbf
 $ python2 run.py
 ```
 
-# Contact Us :
-* Facebook : https://fb.me/gaaaarzxd
+# Social Media :
+* Facebook  : https://facebook.com/gaaaarzxd
+* Fanspage  : https://facebook.com/gaaarzxd
+* Instagram : https://instagram.com/gaaarzxd
