@@ -1,8 +1,4 @@
-# -*- coding: utf-8
-# coded by angga kurniawan
-# fb.me/gaaaarzxd
-# instagram.com/gaaarzxd
-# open source, tidak di perjual belikan
+
 
 try:
 	import requests
